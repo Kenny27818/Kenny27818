@@ -1,7 +1,18 @@
-Hey!
-Myself, Kenneth Joel
-I'm a student trying to learn ways to make myself useful in every way
-<!---
-Kenny27818/Kenny27818 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I'm Kenneth 👋
+
+B.Tech CSE student exploring cybersecurity, AI, and technology through hands-on learning, projects, and writeups.
+
+Currently focusing on:
+• Cybersecurity fundamentals
+• Ethical hacking
+• AI security
+• Networking & Linux
+• Building technical projects
+
+Interests:
+⚽ Football
+🎸 Music
+🎨 Sketching
+💻 Technology & Security
+
+Currently documenting my learning journey through GitHub repositories and projects.
